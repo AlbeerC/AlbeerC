@@ -32,7 +32,6 @@ App donde los usuarios pueden iniciar sesión y llevar un control de las pelícu
 🔧 React JS • Firestore • TMDB API  
 🔗 [Ver proyecto](https://tv-track-24.web.app/)
 
----
 
 #### 🌍 **Know the World** – Aprende geografía de forma interactiva  
 Aplicación educativa con tres secciones: un mapa clickeable con info de países, tarjetas con datos básicos, y un quiz de preguntas.  
