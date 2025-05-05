@@ -26,9 +26,19 @@ También estoy aprendiendo constantemente sobre:
 
 ### 📂 Proyectos destacados
 
-💪 Actualmente estoy desarrollando una app web para rutinas de entrenamiento con **sobrecarga progresiva**.  
-📱 Mobile-first, intuitiva y pensada para el progreso real de los usuarios.  
-➡️ [Mirá mi portfolio](https://albertocaminos.vercel.app)
+#### 🎬 **Peliteca** – Tu registro personal de películas  
+App donde los usuarios pueden iniciar sesión y llevar un control de las películas que ya vieron o que quieren ver.  
+🍿 Autenticación con Firebase • Listas personalizadas • Datos en tiempo real desde la API de TMDB  
+🔧 React JS • Firestore • TMDB API  
+🔗 [Ver proyecto](https://tv-track-24.web.app/)
+
+---
+
+#### 🌍 **Know the World** – Aprende geografía de forma interactiva  
+Aplicación educativa con tres secciones: un mapa clickeable con info de países, tarjetas con datos básicos, y un quiz de preguntas.  
+🗺️ Exploración intuitiva • Datos actualizados • Interfaz pensada para aprender jugando  
+🔧 React JS • APIs de datos geográficos • Librerías de mapas  
+🔗 [Ver proyecto](https://know-the-world-three.vercel.app/)
 
 ---
 
