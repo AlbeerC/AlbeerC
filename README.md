@@ -61,4 +61,4 @@ Aplicación educativa con tres secciones: un mapa clickeable con info de países
 
 ## 🤝 Conectemos
 
-📫 [albertocaminos.vercel.app](https://albertocaminos.vercel.app)
+📫 [linkedin.com/in/alberto-caminos](https://www.linkedin.com/in/alberto-caminos/)
