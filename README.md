@@ -18,13 +18,15 @@ Te invito a visitarlo para conocer más sobre mí y ver mi trabajo en detalle:
 
 ### 🚀 Tecnologías y herramientas que uso:
 
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 También estoy aprendiendo constantemente sobre:
 - ⚙️ Algoritmos y estructuras de datos
@@ -36,18 +38,26 @@ También estoy aprendiendo constantemente sobre:
 
 ### 📂 Proyectos destacados
 
-#### 🎬 **Peliteca** – Tu registro personal de películas  
-App donde los usuarios pueden iniciar sesión y llevar un control de las películas que ya vieron o que quieren ver.  
-🍿 Autenticación con Firebase • Listas personalizadas • Datos en tiempo real desde la API de TMDB  
-🔧 React JS • Firestore • TMDB API  
+#### 🛠️ Sistema de gestión – Proyecto real
+Sistema de gestión para un cliente: interfaz intuitiva para manejar clientes, proveedores, empleados, inventario, facturas, presupuestos y cierre de caja.  
+🔧 React • Supabase • Tailwind  
+📂 Proyecto privado • 🔒 Acceso restringido
+
+#### 📊 Gestión de ventas y préstamos – Proyecto real
+App interna para control de vehículos, préstamos, con estádisticas mensuales y anuales  
+🔧 React • Firebase • Tailwind  
+📂 Proyecto privado • 🔒 Acceso restringido
+
+#### 🌍 Know the World – Ficticio
+App educativa para aprender geografía con mapa interactivo, quiz y tarjetas de información.  
+🔧 React • APIs de geografía • Librerías de mapas  
+🔗 [Ver proyecto](https://know-the-world-three.vercel.app/)
+
+#### 🎬 Peliteca – Ficticio
+App de películas con login y seguimiento personalizado de watchlist y watched.  
+🔧 React • Firebase • TMDB API  
 🔗 [Ver proyecto](https://tv-track-24.web.app/)
 
-
-#### 🌍 **Know the World** – Aprende geografía de forma interactiva  
-Aplicación educativa con tres secciones: un mapa clickeable con info de países, tarjetas con datos básicos, y un quiz de preguntas.  
-🗺️ Exploración intuitiva • Datos actualizados • Interfaz pensada para aprender jugando  
-🔧 React JS • APIs de datos geográficos • Librerías de mapas  
-🔗 [Ver proyecto](https://know-the-world-three.vercel.app/)
 
 ---
 
