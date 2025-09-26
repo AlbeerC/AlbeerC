@@ -30,6 +30,7 @@ Te invito a visitarlo para conocer más sobre mí y ver mi trabajo en detalle:
 
 También estoy aprendiendo constantemente sobre:
 - ⚙️ Algoritmos y estructuras de datos
+- 🛢 Back end y bases de datos
 - 🧠 Patrones de diseño
 - 🔧 Optimización del rendimiento en la web
 - 🛠️ Buenas prácticas de programación
